@@ -5,19 +5,42 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 
 ## Challenges (tbd)
 
-- Links GitHub Repositories
+- [Team 1: ...](https://github.com/swiss/e-collecting-hackathon-team1/)
 - ...
 
 ## How To
 
-1. Join a challenge 
+1. Join a challenge by adding your name and linking your GitHub Account to the README file under Group Members
+2. Design your architecture and create a clickable or technical prototype
+3. Document your results with...
+4. Present and demo...
 
 
-## Programm
+## Program
+
+insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
+
+## Tools
+
+- [Mermaid](https://mermaid.js.org/ ): create diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown 
+	-  [directly on GitHub](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) (free)
+  -  [including a graphical user interface ](https://www.mermaidchart.com) (freemium)
+  -  [Code Editor](https://mermaid.live/) (free)
+  -  [GPT](https://chatgpt.com/g/g-684cc36f30208191b21383b88650a45d-mermaid-chart-diagrams-and-charts) (paid via OpenAI)
+  -  and [many more integrations](https://mermaid.js.org/ecosystem/integrations-community.html)
+- GitHub: [Get started](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- Design and Prototyping Tools
+	- [Figma](https://www.figma.com/)
+ 	- [Miro](https://miro.com/)
 
 
-## Code of Conduct 
-https://hackcodeofconduct.org/
 
 
 
+
+
+## Contributing
+
+- add/insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1887273004/IP
+
+- Code of Conduct: link
