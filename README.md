@@ -11,7 +11,7 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 ## Getting started
 
 0. Create an account on GitHub.
-1. Join a challenge by adding your name and linking your GitHub Account to the README file under Group Members
+1. Join a challenge by adding your name and linking your GitHub Account to the README file below Group Members
 2. Design and develop your solution.
 3. Document your solution.
 4. Present and demo your solution.
