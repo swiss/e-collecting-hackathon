@@ -8,8 +8,9 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 - [Team 1: ...](https://github.com/swiss/e-collecting-hackathon-team1/)
 - ...
 
-## How To
+## Getting started
 
+0. Create an account on GitHub.
 1. Join a challenge by adding your name and linking your GitHub Account to the README file under Group Members
 2. Design your architecture and create a clickable or technical prototype
 3. Document your results with...
