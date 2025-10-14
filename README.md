@@ -20,8 +20,9 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 
 insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
-## Tools
+## Tools and Resources
 
+- [Federal Chancellery's E-Collecting Whitepaper](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf.download.pdf/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf)
 - [Mermaid](https://mermaid.js.org/ ): create diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown 
 	-  [directly on GitHub](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) (free)
   -  [including a graphical user interface ](https://www.mermaidchart.com) (freemium)
