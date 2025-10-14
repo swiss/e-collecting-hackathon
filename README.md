@@ -3,7 +3,7 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 
 ![RZ_Teaser_Linkedin_E-Collecting](https://github.com/user-attachments/assets/ffa93f97-0f16-4abb-80ea-1d5dff9d4eba)
 
-## Challenges (tbd)
+## Teams
 
 - [Team 1: ...](https://github.com/swiss/e-collecting-hackathon-team1/)
 - ...
@@ -12,9 +12,9 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 
 0. Create an account on GitHub.
 1. Join a challenge by adding your name and linking your GitHub Account to the README file under Group Members
-2. Design your architecture and create a clickable or technical prototype
-3. Document your results with...
-4. Present and demo...
+2. Design and develop your solution.
+3. Document your solution.
+4. Present and demo your solution.
 
 
 ## Program
@@ -35,14 +35,6 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 	- [Figma](https://www.figma.com/)
  	- [Miro](https://miro.com/)
 
-
-
-
-
-
-
 ## Contributing
 
-- add/insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1887273004/IP
-
-- Code of Conduct: link
+By participating in this hackathon, you accept and agree to our code of conduct]**(insert link).**
