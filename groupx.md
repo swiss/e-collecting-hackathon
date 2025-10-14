@@ -2,7 +2,7 @@
 
 > This hackathon contributes to laying out different ways on how to implement e-collecting in Switzerland. Proper documentation is key to ensuring that your solution can be understood and evaluated:
 >
-> 1) Diagram of your solution's architecture and data flows using [Mermaid](https://mermaid.js.org/)
+> 1) [Mermaid](https://mermaid.js.org/) diagram(s) showing interactions and data flowing between actors, infrastructure and software components of your solution 
 > 2) Description of ...
 > 3) Explanation of features used (if applicable)
 > 4) A requirements file with all packages and versions used (if applicable)
