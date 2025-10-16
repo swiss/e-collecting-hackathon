@@ -35,8 +35,9 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
   -  [GPT](https://chatgpt.com/g/g-684cc36f30208191b21383b88650a45d-mermaid-chart-diagrams-and-charts) (paid via OpenAI)
   -  and [many more integrations](https://mermaid.js.org/ecosystem/integrations-community.html)
 - GitHub: [Get started](https://docs.github.com/en/get-started/start-your-journey/hello-world)
-- Design and Prototyping Tools
+- UX, Design and Prototyping Tools, e.g.:
 	- [Figma](https://www.figma.com/)
+	- [Penpot](https://penpot.app/)
  	- [Miro](https://miro.com/)
 
 ## Participants
