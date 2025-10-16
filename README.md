@@ -36,13 +36,17 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
   -  and [many more integrations](https://mermaid.js.org/ecosystem/integrations-community.html)
 - GitHub: [Get started](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - UX, Design and Prototyping Tools, e.g.:
-	- [Figma](https://www.figma.com/)
+	- [Figma](https://www.figma.com/) 
 	- [Penpot](https://penpot.app/)
  	- [Miro](https://miro.com/)
 
 ## Participants
 
 ... ?
+
+## Mentors
+
+...
 
 ## Contributing
 
