@@ -1,7 +1,7 @@
 # Contributor Code of Conduct
 
 By participating in this hackathon, you accept and agree to the following terms and
-conditions for your contributions submitted to this repository and its directories:
+conditions for your contributions submitted to this repository and its subdirectories:
 
 ## Copyright and License
 
