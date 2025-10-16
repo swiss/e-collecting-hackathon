@@ -3,7 +3,7 @@ At the Federal Chancellery's E-Collecting Hackathon (October 31 and November 1, 
 
 ![RZ_Teaser_Linkedin_E-Collecting](https://github.com/user-attachments/assets/ffa93f97-0f16-4abb-80ea-1d5dff9d4eba)
 
-Over the course of two days, you will develop your solution addressing the topics outlined in the white paper **(add link to updated version)**. Your solution can be a concept, a clickable or a technical prototype. In any case, you should clearly present the interactions and data flows between the actors, software and infrastructure components over time as well as the user experience of the actors. 
+Over the course of two days, you will develop your solutions, addressing the topics outlined in the white paper **(add link to updated version)**. Your prototype can be conceptual, clickable, or technical. Either way, you should clearly present the interactions and data flows between actors, software, and infrastructure components over time, as well as the user experience of these actors.
 
 Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will ultimately be taken into account for the official decision on which option to pursue as a pilot. Proper documentation is key to ensuring that your solution can be understood and evaluated.
 
