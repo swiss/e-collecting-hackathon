@@ -46,4 +46,4 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
 ## Contributing
 
-By participating in this hackathon, you accept and agree to our code of conduct]**(insert link).**
+By participating in this hackathon, you accept and agree to our [code of conduct](/CONTRIBUTING.md).
