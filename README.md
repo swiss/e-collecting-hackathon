@@ -9,7 +9,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 
 ## Teams
 
-- [Team 1: ...](https://github.com/swiss/e-collecting-hackathon-team1/)
+- [Team 1: Title](https://github.com/swiss/e-collecting-hackathon-team1/)
 - ...
 
 ## Getting started
