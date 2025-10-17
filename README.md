@@ -15,7 +15,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 ## Getting started
 
 0. Create an account on GitHub.
-1. Join a challenge by adding your name and linking your GitHub Account to the README file below Group Members
+1. Join a team by adding your name and linking your GitHub Account to its README file below Team Members
 2. Design and develop your solution.
 3. Document your solution.
 4. Present and demo your solution.
