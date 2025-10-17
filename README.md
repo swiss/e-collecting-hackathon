@@ -5,7 +5,7 @@ At the Federal Chancellery's [E-Collecting](https://www.bk.admin.ch/bk/de/home/p
 
 Over the course of two days, you will develop your solutions, addressing the **9 (?)** topics outlined in the white paper **(add link to updated version)**. You will work in teams taking different approaches to said topics. You can develop a conceptual, clickable, and/or technical prototype. Either way, you should clearly present the interactions and data flows between actors, software, and infrastructure components over time, as well as the user experience of these actors. Proper documentation is key to ensuring that your solution can be understood and evaluated.
 
-Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will ultimately be taken into account for the official decision on which option to pursue as a pilot. Proper documentation is key to ensuring that your solution can be understood and evaluated.
+Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will possibly be taken into account for the official decision on the design of the federal e-collecting trials. Proper documentation is key to ensuring that your solution can be understood and evaluated.
 
 ## Teams
 
