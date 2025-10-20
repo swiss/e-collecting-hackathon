@@ -5,7 +5,7 @@ conditions for your contributions submitted to this repository and its subdirect
 
 ## Copyright and License
 
-Copyrights and third-party usage rights must be respected. Participants shall publish software developed during the hackathon under an [open source license approved by the Open Source Initiative](https://opensource.org/licenses) (e.g., a permissive license such as [MIT](https://opensource.org/license/mit) or a copyleft license such as [GPL 3.0](https://opensource.org/license/gpl-3-0)) on the Federal Chancellery's public GitHub repository (/swiss). Other content (e.g., texts, images, etc.) shall be published under a [Creative Commons CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.de) in the same location. Exceptions are possible in consultation with the organizers.
+Copyrights and third-party usage rights must be respected. Participants shall publish software developed during the hackathon under an [open source license approved by the Open Source Initiative](https://opensource.org/licenses) (e.g., a permissive license such as [MIT](https://opensource.org/license/mit) or a copyleft license such as [AGPL 3.0](https://opensource.org/license/agpl-v3) on the Federal Chancellery's public GitHub repository (/swiss). Other content (e.g., texts, images, etc.) shall be published under a [Creative Commons CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.de) in the same location. Exceptions are possible in consultation with the organizers.
 
 ## Developer's Certificate of Origin
 
