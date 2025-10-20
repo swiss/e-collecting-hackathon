@@ -27,8 +27,8 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
 ## Tools and Resources
 
-- [Federal Chancellery's E-Collecting Whitepaper (🇩🇪🇫🇷🇮🇹)](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf.download.pdf/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf) **UPDATE**
-- [Postulate Report: E-Collecting (-> Documents; 🇩🇪🇫🇷🇮🇹)](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html)
+- [Federal Chancellery's E-Collecting Whitepaper (GER, FRA, ITA](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf.download.pdf/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf) **UPDATE**
+- [Postulate Report: E-Collecting (-> Documents; GER, FRA, ITA)](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html)
 - [Mermaid](https://mermaid.js.org/ ): create diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown 
 	-  [directly on GitHub](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) (free)
   -  [including a graphical user interface ](https://www.mermaidchart.com) (freemium)
