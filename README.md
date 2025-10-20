@@ -7,7 +7,7 @@ Over the course of two days, you will develop your solutions, addressing the 10 
 
 Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will possibly be taken into account for the official decision on the design of the federal e-collecting trials. Proper documentation is key to ensuring that your solution can be understood and evaluated.
 
-## Teams
+## Teams and Approaches
 
 - [Team 1: Title](https://github.com/swiss/e-collecting-hackathon-team1/)
 - [Team 2: Title](https://github.com/swiss/e-collecting-hackathon-team2/)
