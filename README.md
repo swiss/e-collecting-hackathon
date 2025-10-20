@@ -61,4 +61,4 @@ By participating in this hackathon, you accept and agree to our [code of conduct
 
 ## Organizers
 
-The [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) at Bern University of Applied Sciences (BFH) is organising the hackathon on behalf of the Federal Chancellery.
+The [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) at Bern University of Applied Sciences (BFH) is organising the hackathon on behalf of the [Federal Chancellery](https://www.bk.admin.ch/bk/de/home.html).
