@@ -3,14 +3,24 @@ At the Federal Chancellery's [E-Collecting](https://www.bk.admin.ch/bk/de/home/p
 
 ![RZ_Teaser_Linkedin_E-Collecting](https://github.com/user-attachments/assets/ffa93f97-0f16-4abb-80ea-1d5dff9d4eba)
 
-Over the course of two days, you will develop your solutions, addressing the **10** topics outlined in the **guidelines** **(add link)**. You will work in teams taking different approaches to said topics. You can develop a conceptual, clickable, and/or technical prototype. Either way, you should clearly present the interactions and data flows between actors, software, and infrastructure components over time, as well as the user experience of these actors.
+Over the course of two days, you will develop your solutions, addressing the 10 topics outlined in the [guidelines](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html). You will work in teams taking different approaches to said topics. You can develop a conceptual, clickable, and/or technical prototype. Either way, you should clearly present the interactions and data flows between actors, software, and infrastructure components over time, as well as the user experience of these actors.
 
 Together, you will contribute to comparing different ways of how to implement e-collecting in Switzerland. As part of the [participatory process](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html), your solutions will be discussed in subsequent workshops and will possibly be taken into account for the official decision on the design of the federal e-collecting trials. Proper documentation is key to ensuring that your solution can be understood and evaluated.
 
 ## Teams
 
 - [Team 1: Title](https://github.com/swiss/e-collecting-hackathon-team1/)
-- ...
+- [Team 2: Title](https://github.com/swiss/e-collecting-hackathon-team2/)
+- [Team 3: Title](https://github.com/swiss/e-collecting-hackathon-team3/)
+- [Team 4: Title](https://github.com/swiss/e-collecting-hackathon-team4/)
+- [Team 5: Title](https://github.com/swiss/e-collecting-hackathon-team5/)
+- [Team 6: Title](https://github.com/swiss/e-collecting-hackathon-team6/)
+- [Team 7: Title](https://github.com/swiss/e-collecting-hackathon-team7/)
+- [Team 8: Title](https://github.com/swiss/e-collecting-hackathon-team8/)
+- [Team 9: Title](https://github.com/swiss/e-collecting-hackathon-team9/)
+- [Team 10: Title](https://github.com/swiss/e-collecting-hackathon-team10/)
+- [Team 11: Title](https://github.com/swiss/e-collecting-hackathon-team11/)
+- [Team 12: Title](https://github.com/swiss/e-collecting-hackathon-team12/)
 
 ## Getting started
 
@@ -27,7 +37,7 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
 ## Tools and Resources
 
-- [Federal Chancellery's E-Collecting Whitepaper (GER, FRA, ITA)](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf.download.pdf/E-Collecting%20Hackathon%20Whitepaper%20DE%20V0.1.pdf) **UPDATE**
+- [Federal Chancellery's E-Collecting Whitepaper/Guidelines (GER, FRA, ITA)](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html)
 - [Postulate Report: E-Collecting (-> Documents; GER, FRA, ITA)](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html)
 - [Mermaid](https://mermaid.js.org/ ): create diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown 
 	-  [directly on GitHub](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) (free)
@@ -40,10 +50,6 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 	- [Figma](https://www.figma.com/) 
 	- [Penpot](https://penpot.app/)
  	- [Miro](https://miro.com/)
-
-## Participants
-
-... ?
 
 ## Mentors
 
