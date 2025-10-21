@@ -35,6 +35,12 @@ Together, you will contribute to comparing different ways of how to implement e-
 
 insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
+## Location
+
+Bernerhof
+[Bundesgasse 3
+3003 Bern](https://www.openstreetmap.org/way/255112490#map=19/46.946220/7.441565)
+
 ## Tools and Resources
 
 - [Federal Chancellery's E-Collecting Whitepaper/Guidelines (GER, FRA, ITA)](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html)
