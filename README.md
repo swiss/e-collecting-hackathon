@@ -37,9 +37,7 @@ insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
 
 ## Location
 
-Bernerhof
-[Bundesgasse 3
-3003 Bern](https://www.openstreetmap.org/way/255112490#map=19/46.946220/7.441565)
+Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/255112490#map=19/46.946220/7.441565)
 
 ## Tools and Resources
 
