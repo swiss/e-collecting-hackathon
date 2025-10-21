@@ -9,18 +9,18 @@ Together, you will contribute to comparing different ways of how to implement e-
 
 ## Teams and Approaches
 
-- [Team 1: Title](https://github.com/swiss/e-collecting-hackathon-team1/)
-- [Team 2: Title](https://github.com/swiss/e-collecting-hackathon-team2/)
-- [Team 3: Title](https://github.com/swiss/e-collecting-hackathon-team3/)
-- [Team 4: Title](https://github.com/swiss/e-collecting-hackathon-team4/)
-- [Team 5: Title](https://github.com/swiss/e-collecting-hackathon-team5/)
-- [Team 6: Title](https://github.com/swiss/e-collecting-hackathon-team6/)
-- [Team 7: Title](https://github.com/swiss/e-collecting-hackathon-team7/)
-- [Team 8: Title](https://github.com/swiss/e-collecting-hackathon-team8/)
-- [Team 9: Title](https://github.com/swiss/e-collecting-hackathon-team9/)
-- [Team 10: Title](https://github.com/swiss/e-collecting-hackathon-team10/)
-- [Team 11: Title](https://github.com/swiss/e-collecting-hackathon-team11/)
-- [Team 12: Title](https://github.com/swiss/e-collecting-hackathon-team12/)
+- [1) Voll-medienbruchfreies E-Collecting: direkte  Demokratie im digitalen Zeitalter](https://github.com/swiss/e-collecting-hackathon-team1/)
+- [2) E-Collecting vom bestehenden Stimmregister aus gedacht](https://github.com/swiss/e-collecting-hackathon-team2/)
+- [3) Vom Prototypen zum hochsicheren System](https://github.com/swiss/e-collecting-hackathon-team3/)
+- [4) E-Collecting basierend auf bestehenden elektronischen Signaturen](https://github.com/swiss/e-collecting-hackathon-team4/)
+- [5) E-Collecting mittels einfacher digitaler Signatur](https://github.com/swiss/e-collecting-hackathon-team5/)
+- [6) Anonyme Unterstützungsbekundungen](https://github.com/swiss/e-collecting-hackathon-team6/)
+- [7) Vom St.Galler E-Collecting Portal zur Lösung für eidgenössische Vorlagen](https://github.com/swiss/e-collecting-hackathon-team7/)
+- [8) Fully decentralized E-Collecting](https://github.com/swiss/e-collecting-hackathon-team8/)
+- [9) Kryptographie, verteiltes System, E-ID Vertrauens-infrastruktur](https://github.com/swiss/e-collecting-hackathon-team9/)
+- [10) Le système récolte des signatures sur le portail citoyen genevois](https://github.com/swiss/e-collecting-hackathon-team10/)
+- [11) Digital aber mit physischem Kontakt](https://github.com/swiss/e-collecting-hackathon-team11/)
+- [12) e-initiative.ch](https://github.com/swiss/e-collecting-hackathon-team12/)
 
 ## Getting started
 
