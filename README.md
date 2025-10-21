@@ -33,7 +33,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 
 ## Program
 
-insert https://bkdev.atlassian.net/wiki/spaces/EH/pages/1867022366/Programm
+You can find the program on the [Federal Chancellery's Website](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html).
 
 ## Location
 
