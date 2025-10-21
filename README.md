@@ -46,7 +46,7 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 - [Mermaid](https://mermaid.js.org/ ): create diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown 
 	-  [directly on GitHub](https://github.blog/developer-skills/github/include-diagrams-markdown-files-mermaid/) (free)
   -  [including a graphical user interface ](https://www.mermaidchart.com) (freemium)
-  -  [Code Editor](https://mermaid.live/) (free)
+  -  [code editor](https://mermaid.live/) (free)
   -  [GPT](https://chatgpt.com/g/g-684cc36f30208191b21383b88650a45d-mermaid-chart-diagrams-and-charts) (paid via OpenAI)
   -  and [many more integrations](https://mermaid.js.org/ecosystem/integrations-community.html)
 - GitHub: [Get started](https://docs.github.com/en/get-started/start-your-journey/hello-world)
