@@ -54,6 +54,7 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 	- [Figma](https://www.figma.com/) 
 	- [Penpot](https://penpot.app/)
  	- [Miro](https://miro.com/)
+- [DVS4U](https://heidi-universe.ch/en/index.html) (API for issuing and verifying credentials based on the e-ID)
 
 ## Mentors
 
