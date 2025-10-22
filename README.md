@@ -58,7 +58,7 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 
 ## Mentors
 
-You will find physical documents listing the mentors with their respective skills (tools, E-ID, cryptography, accessibility, etc.) and perspectives (municipalities, cantons, Federal Chancellery, etc.) at the hackathon.
+Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, cantons, Federal Chancellery) as well as the slots for their presentations (if applicable).
 
 ## Contributing
 
