@@ -1,7 +1,7 @@
 # E-Collecting Hackathon
 At the Federal Chancellery's [E-Collecting](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html) [Hackathon](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html) (October 31 and November 1, 2025, in Bern), we are designing and developing solutions for collecting electronic signatures for popular initiatives and referendums from A to Z. Meet developers, experts, and interested parties from government, politics, academia, and civil society, and play an active role in shaping e-collecting. [Register now!](https://findmind.ch/c/hackathon-registration)
 
-![RZ_Teaser_Linkedin_E-Collecting](https://github.com/user-attachments/assets/ffa93f97-0f16-4abb-80ea-1d5dff9d4eba)
+![E-Collecting decorative visual](https://github.com/user-attachments/assets/ffa93f97-0f16-4abb-80ea-1d5dff9d4eba)
 
 Over the course of two days, you will develop your solutions, addressing the 10 topics outlined in the [guidelines](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html). You will work in teams taking different approaches to said topics. You can develop a conceptual, clickable, and/or technical prototype. Either way, you should clearly present the interactions and data flows between actors, software, and infrastructure components over time, as well as the user experience of these actors.
 
