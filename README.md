@@ -17,7 +17,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [6) Anonymous Fully Verifiable E-Collecting](https://github.com/swiss/e-collecting-hackathon-team6/)
 - [7) Vom St.Galler E-Collecting Portal zur Lösung für eidgenössische Vorlagen](https://github.com/swiss/e-collecting-hackathon-team7/)
 - [8) Fully decentralized E-Collecting](https://github.com/swiss/e-collecting-hackathon-team8/)
-- [9) Kryptographie, verteiltes System, E-ID Vertrauens-infrastruktur](https://github.com/swiss/e-collecting-hackathon-team9/)
+- [9) Kryptographie, verteiltes System, E-ID Vertrauensinfrastruktur](https://github.com/swiss/e-collecting-hackathon-team9/)
 - [10) Le système récolte des signatures sur le portail citoyen genevois](https://github.com/swiss/e-collecting-hackathon-team10/)
 - [11) Digital aber mit physischem Kontakt](https://github.com/swiss/e-collecting-hackathon-team11/)
 - [12) e-initiative.ch](https://github.com/swiss/e-collecting-hackathon-team12/)
