@@ -29,7 +29,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 2. Add your name and GitHub account to the "Team Members" section of your team's GitHub repository README file.
 3. Design and develop your solution.
 4. Document your solution.
-5. Present and demo your solution.
+5. Present and demo your solution at the end of the hackathon.
 
 
 ## Program
