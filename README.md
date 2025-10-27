@@ -36,6 +36,10 @@ Together, you will contribute to comparing different ways of how to implement e-
 
 You can find the program on the [Federal Chancellery's Website](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html).
 
+## Language
+
+The hackathon will be moderated in German and simultaneously translated into French. Presentations will be given in German or French and simultaneously translated. Most of the time, participants will work in their respective teams, where they can choose one or more languages.
+
 ## Location
 
 Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/255112490#map=19/46.946220/7.441565)
