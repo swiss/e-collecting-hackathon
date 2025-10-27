@@ -25,7 +25,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 ## Getting started
 
 0. Create an account on GitHub.
-1. Join a [team](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#teams-and-approaches) during the team building process at the hackathon.
+1. Join a [team i.e. approach](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#teams-and-approaches) during the team building process at the hackathon.
 2. Add your name and GitHub account to the "Team Members" section of your team's GitHub repository README file.
 3. Design and develop your solution.
 4. Document your solution.
