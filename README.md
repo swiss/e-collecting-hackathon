@@ -22,6 +22,8 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [11) Digital aber mit physischem Kontakt](https://github.com/swiss/e-collecting-hackathon-team11/)
 - [12) e-initiative.ch](https://github.com/swiss/e-collecting-hackathon-team12/)
 
+_There is also a regularly updated overview of all the teams and their approaches: [Link](https://gist.github.com/dune73/08cb549ea4c69e18a2d3dc32f1ab80c3#file-e-collecting-hackathon-overview-md) (by Christian Folini / [@dune73](https://github.com/dune73))_
+
 ## Getting started
 
 0. Create an account on GitHub.
