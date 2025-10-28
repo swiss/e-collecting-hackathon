@@ -36,7 +36,33 @@ _There is also a regularly updated overview of all the teams and their approache
 
 ## Program
 
-You can find the program on the [Federal Chancellery's Website](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/aktuelles.html).
+| **Friday**   |                              |                                           |
+|--------------|------------------------------|-------------------------------------------|
+| 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
+|     10.00    | Welcome – Federal Chancellor |                                           |
+| 10.15        | Presentations: BFH, Federal Chancellery & Pitches        |                                           |
+| 11.30        | Team building                | Salons, Bernerhof                         |
+|     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
+| 13.30        | _E-ID and DVS4U*_            | Bankettsaal, Bernerhof                    |
+| 14.30        | _Municipalities*_            |                                           |
+| 15.00        | _Accessibility*_             |                                           |
+| 16.00        | _Mermaid Diagrams*_          |                                           |
+| 16.30        | _Figma*_                     |                                           |
+|     17:45    |     Check-out day 1          |                                           |
+|     18.00    |     Dinner                   | Bankettsaal, Bernerhof                    |
+| 19.00        | BFH Pavillon opens           | Greenfield/picnic area, Brückenstrasse 69 |
+|     19.30    |     Closing Bernerhof day 1  | Bernerhof                                 |
+| 22.00        | BFH Pavillon: doors close    |                                           |
+| **Saturday** |                              |                                           |
+| 08.00        | Doors open & breakfast       | Bernerhof                                 |
+| 10.00        | _Federal Chancellery*_       | Bankettsaal, Bernerhof                    |
+| 11.00        | _Cryptography*_              |                                           |
+| 12.00        | Lunch                        | Bankettsaal, Bernerhof                    |
+| 16.00        | Final presentations          | Bankettsaal, Bernerhof                    |
+| 17.30        | Final remarks & apéro        |                                           |
+| 18.30        | Closing                      | Bernerhof                                 |
+
+_* Mentoring Sessions (Input and Q&A)_
 
 ## Location
 
