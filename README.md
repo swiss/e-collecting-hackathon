@@ -87,7 +87,7 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 
 ## Mentors
 
-Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, Federal Chancellery) as well as the slots for their mentoring sessions (input and Q&A) (if applicable).
+Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, Federal Chancellery) as well as the [slots for their mentoring sessions](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#program) (input and Q&A) (if applicable).
 
 ## Contributing
 
