@@ -50,7 +50,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | 16.30        | _Figma*_                     |                                           |
 |     17.45    |     Check-out day 1          |                                           |
 |     18.00    |     Dinner                   | Bankettsaal, Bernerhof                    |
-| 19.00        | BFH Pavillon opens           | Greenfield/picnic area, [Brückenstrasse 69](https://www.openstreetmap.org/node/443520945) |
+| 19.00        | BFH Pavillon opens           | [Brückenstrasse 69](https://www.openstreetmap.org/node/443520945) |
 |     19.30    |     Closing Bernerhof day 1  | Bernerhof                                 |
 | 22.00        | BFH Pavillon: doors close    |                                           |
 | **Saturday** |                              |                                           |
