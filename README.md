@@ -61,15 +61,15 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 
 ## Mentors
 
-Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, cantons, Federal Chancellery) as well as the slots for their presentations (if applicable).
+Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, Federal Chancellery) as well as the slots for their mentoring sessions (input and Q&A) (if applicable).
 
 ## Contributing
 
 By participating in this hackathon, you accept and agree to our [code of conduct](/CONTRIBUTING.md).
 
-## Language
+## Languages
 
-The hackathon will be moderated in German and simultaneously translated into French. Presentations will be given in German or French and simultaneously translated. Most of the time, participants will work in their respective teams, where they can choose one or more languages.
+The hackathon will be moderated in German and translated into French simultaneously. Presentations will be given in either language and translated simultaneously. Participants will mostly work in their respective teams, where they can choose to communicate in one or more languages.
 
 ## Organizers
 
