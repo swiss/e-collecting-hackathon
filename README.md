@@ -39,7 +39,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | **Friday**   |                              |                                           |
 |--------------|------------------------------|-------------------------------------------|
 | 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
-|     10.00    | Welcome – Federal Chancellor |                                           |
+|     10.00    | Welcome (Federal Chancellor) |                                           |
 | 10.15        | Presentations: BFH, Federal Chancellery & Pitches        |                                           |
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
