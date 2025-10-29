@@ -59,7 +59,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | 11.00        | _Cryptography*_              |                                           |
 | 12.00        | Lunch                        | Bankettsaal, Bernerhof                    |
 | 16.00        | Final presentations          | Bankettsaal, Bernerhof                    |
-| 17.30        | Final remarks & apéro        |                                           |
+| 17.30        | Final remarks (Federal Chancellor) & apéro        |                                           |
 | 18.30        | Closing                      | Bernerhof                                 |
 
 _* Mentoring Sessions (Input and Q&A)_
