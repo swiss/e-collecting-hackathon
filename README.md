@@ -20,7 +20,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [9) Kryptographie, verteiltes System, E-ID Vertrauensinfrastruktur](https://github.com/swiss/e-collecting-hackathon-team9/)
 - [10) Le système récolte des signatures sur le portail citoyen genevois](https://github.com/swiss/e-collecting-hackathon-team10/)
 - [11) Digital aber mit physischem Kontakt](https://github.com/swiss/e-collecting-hackathon-team11/)
-- [12) e-initiative.ch](https://github.com/swiss/e-collecting-hackathon-team12/)
+- [12) A federated/distributed, privacy-first e-collecting platform/framework that preserves canton sovereignty and gives citizens a simple and privacy first experience.](https://github.com/swiss/e-collecting-hackathon-team12/)
 
 _There is also a regularly updated overview of all the teams and their approaches: [Link](https://gist.github.com/dune73/08cb549ea4c69e18a2d3dc32f1ab80c3#file-e-collecting-hackathon-overview-md) (by Christian Folini / [@dune73](https://github.com/dune73))_
 
