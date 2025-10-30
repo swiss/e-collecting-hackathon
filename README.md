@@ -44,7 +44,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
 | 13.30        | _E-ID and DVS4U*_            | Bankettsaal, Bernerhof                    |
-| 14.30        | _Municipalities*_            |                                           |
+| 14.30        | _Association of Swiss Residents' Services (VSED)*_ |                                           |
 | 15.00        | _Accessibility*_             |                                           |
 | 16.00        | _Mermaid Diagrams*_          |                                           |
 | 16.30        | _Figma*_                     |                                           |
