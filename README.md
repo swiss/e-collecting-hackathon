@@ -17,7 +17,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [6) Anonymous Participation of Eligible Voters](https://github.com/swiss/e-collecting-hackathon-team6/)
 - [7) Vom St.Galler E-Collecting Portal zur Lösung für eidgenössische Vorlagen](https://github.com/swiss/e-collecting-hackathon-team7/)
 - [8) Instaurer la confiance à chaque signature ! Collecte électronique fédérée et vérifiée cryptographiquement](https://github.com/swiss/e-collecting-hackathon-team8/)
-- [9) Kryptographie, verteiltes System, E-ID Vertrauensinfrastruktur](https://github.com/swiss/e-collecting-hackathon-team9/)
+- [9) Prosignum - sicher und verifizierbare Unterschriftensammlung](https://github.com/swiss/e-collecting-hackathon-team9/)
 - [10) Le système récolte des signatures sur le portail citoyen genevois](https://github.com/swiss/e-collecting-hackathon-team10/)
 - [11) Digital aber mit physischem Kontakt](https://github.com/swiss/e-collecting-hackathon-team11/)
 - [12) A federated/distributed, privacy-first e-collecting platform/framework that preserves canton sovereignty and gives citizens a simple and privacy first experience.](https://github.com/swiss/e-collecting-hackathon-team12/)
