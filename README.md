@@ -40,15 +40,15 @@ _There is also a regularly updated overview of all the teams and their approache
 |--------------|------------------------------|-------------------------------------------|
 | 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
 |     10.00    | Welcome (Federal Chancellor) |                                           |
-| 10.15        | Presentations: BFH, Federal Chancellery & Pitches        |                                           |
+| 10.15        | Presentations: BFH, Federal Chancellery & Pitches |                      |
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
 | 13.30        | _E-ID and DVS4U*_            | Bankettsaal, Bernerhof                    |
-| 14.30        | _Association of Swiss Residents' Services (VSED)*_ |                                           |
+| 14.30        | _Association of Swiss Residents' Services (VSED)*_ |                     |
 | 15.00        | _Accessibility*_             |                                           |
 | 16.00        | _Mermaid Diagrams*_          |                                           |
 | 16.30        | _Figma*_                     |                                           |
-|     17.45    |     Check-out day 1          |                                           |
+|     17.45    |     Check-out day 1          | Bankettsaal, Bernerhof                    |
 |     18.00    |     Dinner                   | Bankettsaal, Bernerhof                    |
 | 19.00        | Walk to BFH Pavillon         | [Brückenstrasse 69](https://www.openstreetmap.org/node/443520945) |
 |     19.30    |     Closing Bernerhof day 1  | Bernerhof                                 |
