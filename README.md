@@ -40,14 +40,14 @@ _There is also a regularly updated overview of all the teams and their approache
 |--------------|------------------------------|-------------------------------------------|
 | 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
 |     10.00    | [Welcome (Federal Chancellor)](https://github.com/swiss/e-collecting-hackathon/tree/main/slides) |                                           |
-| 10.15        | [Presentations: BFH, Federal Chancellery & Pitches](https://github.com/swiss/e-collecting-hackathon/tree/main/slides) |                      |
+| 10.15        | Intro by BFH, Federal Chancellery ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_FR.pdf)) & [Pitches](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#teams-and-approaches) |                      |
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
-| 13.30        | _E-ID and DVS4U*_            | Bankettsaal, Bernerhof                    |
-| 14.30        | _Association of Swiss Residents' Services (VSED)*_ |                     |
-| 15.00        | _Accessibility*_             |                                           |
-| 16.00        | _Mermaid Diagrams*_          |                                           |
-| 16.30        | _Figma*_                     |                                           |
+| 13.30        | _[E-ID](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/E-ID.pdf) and [DVS4U](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/DVS4U.pdf)*_            | Bankettsaal, Bernerhof                    |
+| 14.30        | _[Association of Swiss Residents' Services (VSED)](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/VSED.pdf)*_ |                     |
+| 15.00        | _[Accessibility](https://github.com/swiss/e-collecting-hackathon/tree/main/slides/accessibility)*_             |                                           |
+| 16.00        | _[Mermaid Diagrams](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Tech-Mermaid-Figma.pdf)*_          |                                           |
+| 16.30        | _[Figma](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Tech-Mermaid-Figma.pdf)*_                     |                                           |
 |     17.45    |     Check-out day 1          | Bankettsaal, Bernerhof                    |
 |     18.00    |     Dinner                   | Bankettsaal, Bernerhof                    |
 | 19.00        | Walk to BFH Pavillon         | [Brückenstrasse 69](https://www.openstreetmap.org/node/443520945) |
@@ -55,7 +55,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | 22.00        | BFH Pavillon: doors close    |                                           |
 | **Saturday** |                              |                                           |
 | 08.00        | Doors open & breakfast       | Bernerhof                                 |
-| 10.00        | _Federal Chancellery*_       | Bankettsaal, Bernerhof                    |
+| 10.00        | _Federal Chancellery ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Bundeskanzlei_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/ChancellerieFederale_FR.pdf))*_       | Bankettsaal, Bernerhof                    |
 | 11.00        | _Cryptography*_              |                                           |
 | 12.00        | Lunch                        | Bankettsaal, Bernerhof                    |
 | 16.00        | Final presentations          | Bankettsaal, Bernerhof                    |
