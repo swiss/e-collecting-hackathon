@@ -12,7 +12,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [1) Voll-medienbruchfreies E-Collecting: direkte  Demokratie im digitalen Zeitalter](https://github.com/swiss/e-collecting-hackathon-team1/)
 - [2) E-Collecting vom bestehenden Stimmregister aus gedacht](https://github.com/swiss/e-collecting-hackathon-team2/)
 - [3) Update_CH](https://github.com/swiss/e-collecting-hackathon-team3/)
-- [4) E-Collecting Customer Journey unter Nutzung der Capabilities der Schweizerischen Post](https://github.com/swiss/e-collecting-hackathon-team4/)
+- [4) E-Collecting User Journey mit Nutzung der Erfahrung von SwissSign, ePost und E-Voting](https://github.com/swiss/e-collecting-hackathon-team4/)
 - [5) E-Collecting mittels einfacher digitaler Signatur](https://github.com/swiss/e-collecting-hackathon-team5/)
 - [6) Anonymous Fully Verifiable E-Collecting](https://github.com/swiss/e-collecting-hackathon-team6/)
 - [7) Vom St.Galler E-Collecting Portal zur Lösung für eidgenössische Vorlagen](https://github.com/swiss/e-collecting-hackathon-team7/)
