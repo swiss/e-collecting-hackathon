@@ -64,6 +64,8 @@ _There is also a regularly updated overview of all the teams and their approache
 
 _* Mentoring Sessions (Input and Q&A)_
 
+Slides are linked.
+
 ## Location
 
 Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/255112490#map=19/46.946220/7.441565)
