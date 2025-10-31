@@ -48,7 +48,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | 15.00        | _[Accessibility](https://github.com/swiss/e-collecting-hackathon/tree/main/slides/accessibility)*_             |                                           |
 | 16.00        | _[Mermaid Diagrams](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Tech-Mermaid-Figma.pdf)*_          |                                           |
 | 16.30        | _[Figma](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Tech-Mermaid-Figma.pdf)*_                     |                                           |
-|     17.45    |     Check-out day 1          | Bankettsaal, Bernerhof                    |
+|     17.45    |     Check-out day 1 ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-check-out_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-check-out_FR.pdf))         | Bankettsaal, Bernerhof                    |
 |     18.00    |     Dinner                   | Bankettsaal, Bernerhof                    |
 | 19.00        | Walk to BFH Pavillon         | [Brückenstrasse 69](https://www.openstreetmap.org/node/443520945) |
 |     19.30    |     Closing Bernerhof day 1  | Bernerhof                                 |
