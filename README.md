@@ -39,7 +39,7 @@ _There is also a regularly updated overview of all the teams and their approache
 | **Friday**   |                              |                                           |
 |--------------|------------------------------|-------------------------------------------|
 | 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
-|     10.00    | [Welcome (Federal Chancellor)](https://github.com/swiss/e-collecting-hackathon/tree/main/slides) |                                           |
+|     10.00    | Welcome (Federal Chancellor)([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_FR.pdf)) |                                           |
 | 10.15        | Intro by BFH, Federal Chancellery ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-start_FR.pdf)) & [Pitches](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#teams-and-approaches) |                      |
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
