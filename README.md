@@ -19,7 +19,7 @@ Together, you will contribute to comparing different ways of how to implement e-
 - [8) Instaurer la confiance à chaque signature ! Collecte électronique fédérée et vérifiée cryptographiquement](https://github.com/swiss/e-collecting-hackathon-team8/)
 - [9) Prosignum - sicher und verifizierbare Unterschriftensammlung](https://github.com/swiss/e-collecting-hackathon-team9/)
 - [10) Le système récolte des signatures sur le portail e-Gov genevois](https://github.com/swiss/e-collecting-hackathon-team10/)
-- [11) Hybrid Trust for E-Collecting](https://github.com/swiss/e-collecting-hackathon-team11/)
+- ~~[11) Hybrid Trust for E-Collecting](https://github.com/swiss/e-collecting-hackathon-team11/)~~
 - [12) Federated e-collection framework that respects cantons sovereignty while giving citizens a seamless and privacy first experience.](https://github.com/swiss/e-collecting-hackathon-team12/)
 
 _There is also a regularly updated overview of all the teams and their approaches: [Link](https://gist.github.com/dune73/08cb549ea4c69e18a2d3dc32f1ab80c3#file-e-collecting-hackathon-overview-md) (by Christian Folini / [@dune73](https://github.com/dune73))_
@@ -39,8 +39,8 @@ _There is also a regularly updated overview of all the teams and their approache
 | **Friday**   |                              |                                           |
 |--------------|------------------------------|-------------------------------------------|
 | 09.00        | Doors open & breakfast       | Bankettsaal, Bernerhof                    |
-|     10.00    | Welcome (Federal Chancellor) |                                           |
-| 10.15        | Presentations: BFH, Federal Chancellery & Pitches |                      |
+|     10.00    | [Welcome (Federal Chancellor)](https://github.com/swiss/e-collecting-hackathon/tree/main/slides) |                                           |
+| 10.15        | [Presentations: BFH, Federal Chancellery & Pitches](https://github.com/swiss/e-collecting-hackathon/tree/main/slides) |                      |
 | 11.30        | Team building                | Salons, Bernerhof                         |
 |     12.00    |     Lunch                    | Bankettsaal, Bernerhof                    |
 | 13.30        | _E-ID and DVS4U*_            | Bankettsaal, Bernerhof                    |
