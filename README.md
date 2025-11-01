@@ -58,8 +58,8 @@ _There is also a regularly updated overview of all the teams and their approache
 | 10.00        | _Federal Chancellery ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Bundeskanzlei_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/ChancellerieFederale_FR.pdf))*_       | Bankettsaal, Bernerhof                    |
 | 11.00        | _[Cryptography](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/Cryptography.pdf)*_              |                                           |
 | 12.00        | Lunch                        | Bankettsaal, Bernerhof                    |
-| 16.00        | Final presentations          | Bankettsaal, Bernerhof                    |
-| 17.30        | Final remarks (Federal Chancellor) & apéro        |                                           |
+| 16.00        | [Final presentations](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#teams-and-approaches)          | Bankettsaal, Bernerhof                    |
+| 17.30        | Final remarks (Federal Chancellor) ([DE](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-finish_DE.pdf)/[FR](https://github.com/swiss/e-collecting-hackathon/blob/main/slides/e-collecting-hackathon-finish_FR.pdf)) & apéro        |                                           |
 | 18.30        | Closing                      | Bernerhof                                 |
 
 _* Mentoring Sessions (Input and Q&A)_
