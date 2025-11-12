@@ -91,6 +91,9 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 
 Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, Federal Chancellery) as well as the [slots for their mentoring sessions](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#program) (input and Q&A) (if applicable).
 
+### Contact details
+- 
+
 ## Contributing
 
 By participating in this hackathon, you accept and agree to our [code of conduct](/CONTRIBUTING.md).
@@ -102,3 +105,5 @@ The hackathon will be moderated in German and translated into French simultaneou
 ## Organizers
 
 The [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) at Bern University of Applied Sciences (BFH) is organising the hackathon on behalf of the [Federal Chancellery](https://www.bk.admin.ch/bk/de/home.html).
+
+
