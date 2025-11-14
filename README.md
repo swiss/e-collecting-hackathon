@@ -93,21 +93,21 @@ Mentors will support you in developping your solutions. You will find physical d
 
 ### Contact details for questions
 
-| **Name**     | **Vorname**  | **Organisation**                                 | **E-Mail**                          |
+| **Surname**  | **Firstname**| **Organisation**                                 | **E-Mail**                          |
 |--------------|--------------|--------------------------------------------------|-------------------------------------|
-| Aksoy        | Mikail Vidal | BFH Tech Mentor (Mermaid & Figma)                | mikail.aksoyvidal@bfh.ch            |
-| Amrein       | Patrick      | Ubique, i.A. DVS (DVS4U)                         | amrein@ubique.ch                    |
-| von Bornhaupt| Alide        | Accessibility Coach                              | info@alidevonbornhaupt.com          |
-| Eberle       | Monika       | VSED, Einwohnerdienste Maur ZH                   | monika.eberle@maur.ch               |
-| Eckert       | Noah         | BFH Tech Mentor (Figma)                          | noah.eckert@bfh.ch                  |
-| Fischer      | Tobias       | VSED, Einwohnerdienste Liestal                   | tobias.fischer@liestal.ch           |
-| Fuchs        | Theres       | VSED, Gemeindeverwaltung Gelterkinden BL         | theres.fuchs@vsed.ch                |
-| Graf         | Simon        | Statistisches Amt Kanton Zürich                  | simon.graf@statistik.ji.zh.ch       |
-| Heimann      | Christian    | fedpol Programm e-ID                             | christian.heimann@fedpol.admin.ch   |
-| Marti        | Claudio      | Bundeskanzlei, Volksinitiativen                  | claudio.martiwhitebread@bk.admin.ch |
-| Mitrokotsa   | Katerina     | Chair of Cybersecurity, University of St. Gallen | katerina.mitrokotsa@unisg.ch        |
-| Schaad       | Pascal       | VSED, Einwohnerdienste Langenthal BE             | pascal.schaad@langenthal.ch         |
-| Zaugg        | Moritz       | Politische Rechte, Kanton Bern                   | moritz.zaugg@be.ch                  |
+| Aksoy        | Mikail Vidal | BFH Tech Mentor (Mermaid & Figma)                | mikail.aksoyvidal at bfh.ch         |
+| Amrein       | Patrick      | Ubique, i.A. DVS (DVS4U)                         | amrein at ubique.ch                 |
+| von Bornhaupt| Alide        | Accessibility Coach                              | info at alidevonbornhaupt.com       |
+| Eberle       | Monika       | VSED, Einwohnerdienste Maur ZH                   | monika.eberle at maur.ch            |
+| Eckert       | Noah         | BFH Tech Mentor (Figma)                          | noah.eckert at bfh.ch               |
+| Fischer      | Tobias       | VSED, Einwohnerdienste Liestal                   | tobias.fischer at liestal.ch        |
+| Fuchs        | Theres       | VSED, Gemeindeverwaltung Gelterkinden BL         | theres.fuchs at vsed.ch             |
+| Graf         | Simon        | Statistisches Amt Kanton Zürich                  | simon.graf at statistik.ji.zh.ch    |
+| Heimann      | Christian    | fedpol Programm e-ID                             | christian.heimann at fedpol.admin.ch|
+| Marti        | Claudio      | Bundeskanzlei, Volksinitiativen                  | claudio.martiwhitebread at bk.admin.ch |
+| Mitrokotsa   | Katerina     | Chair of Cybersecurity, University of St. Gallen | katerina.mitrokotsa at unisg.ch     |
+| Schaad       | Pascal       | VSED, Einwohnerdienste Langenthal BE             | pascal.schaad at langenthal.ch      |
+| Zaugg        | Moritz       | Politische Rechte, Kanton Bern                   | moritz.zaugg at be.ch               |
 
 ## Contributing
 
