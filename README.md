@@ -94,6 +94,7 @@ Mentors will support you in developping your solutions. You will find physical d
 ### Contact details for questions
 
 | **Name**     | **Vorname**  | **Organisation**                                 | **E-Mail**                          |
+|--------------|--------------|--------------------------------------------------|-------------------------------------|
 | Aksoy        | Mikail Vidal | BFH Tech Mentor (Mermaid & Figma)                | mikail.aksoyvidal@bfh.ch            |
 | Amrein       | Patrick      | Ubique, i.A. DVS (DVS4U)                         | amrein@ubique.ch                    |
 | von Bornhaupt| Alide        | Accessibility Coach                              | info@alidevonbornhaupt.com          |
