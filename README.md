@@ -91,8 +91,23 @@ Bernerhof, [Bundesgasse 3, 3003 Bern](https://www.openstreetmap.org/way/25511249
 
 Mentors will support you in developping your solutions. You will find physical documents at the hackathon, listing the mentors with their respective skills (e.g. tools, E-ID, cryptography, accessibility) and perspectives (e.g. municipalities, Federal Chancellery) as well as the [slots for their mentoring sessions](https://github.com/swiss/e-collecting-hackathon/tree/main?tab=readme-ov-file#program) (input and Q&A) (if applicable).
 
-### Contact details
-- 
+### Contact details for questions
+
+| **Surname**  | **Firstname**| **Organisation**                                 | **E-Mail**                          |
+|--------------|--------------|--------------------------------------------------|-------------------------------------|
+| Aksoy        | Mikail Vidal | BFH Tech Mentor (Mermaid & Figma)                | mikail.aksoyvidal at bfh.ch         |
+| Amrein       | Patrick      | Ubique, i.A. DVS (DVS4U)                         | amrein at ubique.ch                 |
+| von Bornhaupt| Alide        | Accessibility Coach                              | info at alidevonbornhaupt.com       |
+| Eberle       | Monika       | VSED, Einwohnerdienste Maur ZH                   | monika.eberle at maur.ch            |
+| Eckert       | Noah         | BFH Tech Mentor (Figma)                          | noah.eckert at bfh.ch               |
+| Fischer      | Tobias       | VSED, Einwohnerdienste Liestal                   | tobias.fischer at liestal.ch        |
+| Fuchs        | Theres       | VSED, Gemeindeverwaltung Gelterkinden BL         | theres.fuchs at vsed.ch             |
+| Graf         | Simon        | Statistisches Amt Kanton Zürich                  | simon.graf at statistik.ji.zh.ch    |
+| Heimann      | Christian    | fedpol Programm e-ID                             | christian.heimann at fedpol.admin.ch|
+| Marti        | Claudio      | Bundeskanzlei, Volksinitiativen                  | claudio.martiwhitebread at bk.admin.ch |
+| Mitrokotsa   | Katerina     | Chair of Cybersecurity, University of St. Gallen | katerina.mitrokotsa at unisg.ch     |
+| Schaad       | Pascal       | VSED, Einwohnerdienste Langenthal BE             | pascal.schaad at langenthal.ch      |
+| Zaugg        | Moritz       | Politische Rechte, Kanton Bern                   | moritz.zaugg at be.ch               |
 
 ## Contributing
 
